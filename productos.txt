@@ -1,0 +1,5 @@
+1|lapiz|10|papeleria
+2|coca cola|25|tienda
+3|sudadera|1599|ropa
+4|gorra barbas|3500|hats
+5|foco|50|ferreria
